@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yousef Hajri 👋
 
-<!--
-**YousefHajri/YousefHajri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT & Project Manager** at Newtech Advertising Company — Saudi Arabia 🇸🇦
 
-Here are some ideas to get you started:
+Computer engineer with 20 years in the Kingdom delivering IT infrastructure, networks and systems, and managing technology projects from planning and procurement through to handover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work on
+
+- **IT Infrastructure & Systems** — Windows Server, Linux, DNS / DHCP, Exchange, ERP & MIS support
+- **Networking** — LAN / WAN, fiber optics, routing & switching, Wi-Fi, PTP / PMP, VoIP
+- **Project Management** — planning, scheduling, budgeting, cost control, risk and KPI reporting
+- **Procurement & Contracts** — Etimad workflows, supplier contracts, technical & commercial comparisons
+- **Digital Signage & Smart Systems** — LED / LCD displays, KNX integration
+- **Software & Automation** — C#, SQL, ASP.NET, scripting
+
+## 📜 Certifications
+
+`CCNP` · `CCNA` · `MCSE` · `CompTIA Network+` · `CompTIA A+`
+
+## 🎓 Education
+
+- Bachelor of Engineering — Computer Engineering, University of Applied and Social Sciences
+- Diploma in Information Technology — Sana'a (2004)
+
+## 🌐 Languages
+
+Arabic (native) · English (professional working)
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yousef%20Hajri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hajri-63907816)
